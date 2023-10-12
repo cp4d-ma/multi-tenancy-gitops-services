@@ -8,4 +8,4 @@ spec:
     license: Enterprise
   storageClass: managed-nfs-storage
   zenCoreMetadbStorageClass: managed-nfs-storage
-  version: "4.0.1"
+  version: "4.6.6"
