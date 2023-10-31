@@ -8,4 +8,4 @@ spec:
     license: Enterprise
   storageClass: ocs-storagecluster-cephfs
   zenCoreMetadbStorageClass: ocs-storagecluster-cephfs
-  version: "4.6.6"
+  version: "v4.4"

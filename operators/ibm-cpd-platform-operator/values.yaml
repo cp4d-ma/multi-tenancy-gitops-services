@@ -5,7 +5,7 @@ ibm-cpd-platform-operator:
     ibmcpdplatform:
       name: ibm-cpd-platform-catalog-subscription
       subscription:
-        channel: v4.6.6
+        channel: v4.4
         installPlanApproval: Automatic
         name: cpd-platform-operator
         source: ibm-operator-catalog
